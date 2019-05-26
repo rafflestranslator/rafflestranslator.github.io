@@ -10,7 +10,7 @@
 
 A documentation website of our project.
 
-## !!! Please keep changes isolately in develop branch ##
+## !!! Please keep changes isolately in ```develop``` branch, ```master``` is for deployment only ##
 
 _Check out our awesome projects on [our organization page](https://github.com/rafflestranslator)._
 
