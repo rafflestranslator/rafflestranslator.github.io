@@ -36,9 +36,17 @@ const Layout = ({ children }) => (
         >
           <main>{children}</main>
           <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+            <p>
+              © {new Date().getFullYear()}, Built with
+              {` `}
+              <a href="https://www.gatsbyjs.org">Gatsby</a>
+            </p>
+            <p>
+              Icon provided by 
+              <a href="https://www.flaticon.com/authors/gregor-cresnar"> Gregor Cresnar </a>
+               and <a href="https://www.freepik.com/"> freepik.com</a> via 
+              <a href="https://www.flaticon.com/home"> flaticon.com</a>.
+            </p>
           </footer>
         </div>
       </>
