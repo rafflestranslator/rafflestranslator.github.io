@@ -10,6 +10,8 @@
 
 A documentation website of our project.
 
+## !!! Please keep changes isolately in develop branch ##
+
 _Check out our awesome projects on [our organization page](https://github.com/rafflestranslator)._
 
 <!-- AUTO-GENERATED-CONTENT:END -->
